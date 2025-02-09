@@ -1,6 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋. Welcome to my page 
 
-<!--
+
 **br8bit/br8bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- &nbsp;![](https://komarev.com/ghpvc/?username=br8btit&color=brightgreen) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=br8bit&show_icons=true&locale=en" alt="br8bit" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br8bit&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
